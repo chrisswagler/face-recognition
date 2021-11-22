@@ -18,8 +18,7 @@ def blur_image(image, face_locations):
 
 
 #image = face_recognition.load_image_file("obama.jpeg")
-#image = face_recognition.load_image_file("team.png")
-image = face_recognition.load_image_file("test.JPG")
+image = face_recognition.load_image_file("team.png")
 
 # Initialize some variables
 face_locations = []
